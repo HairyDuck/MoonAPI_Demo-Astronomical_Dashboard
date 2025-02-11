@@ -56,13 +56,6 @@ Built with:
 - Bootstrap 5 for UI components
 - Local Storage for data persistence
 
-## �� Project Structure
-├── index.html # Main dashboard interface
-├── styles.css # Custom styling
-├── script.js # Dashboard functionality
-└── sample_data.json # Demo mode data
-
-
 ## 💻 Key Components
 
 ### Dashboard Features
